@@ -5,6 +5,7 @@ seoDescription: "Optimize web performance with Next.js. Learn efficient componen
 datePublished: Mon May 22 2023 16:13:38 GMT+0000 (Coordinated Universal Time)
 cuid: clhz1rd61000209lb5ucw7ppp
 slug: component-patterns-in-nextjs-13
+canonical: https://medium.com/@niazmorshed2007/component-patterns-in-next-js-13-b6439dc6324a
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1684752306472/526569bc-f36c-4837-9033-a1cf1bf1f87a.png
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1684771842592/04d247a0-a7c2-4453-b4d0-58fa7b5e9f3c.png
 tags: javascript, web-development, reactjs, typescript, nextjs
