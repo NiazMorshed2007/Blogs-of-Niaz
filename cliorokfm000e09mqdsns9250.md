@@ -7,7 +7,7 @@ cuid: cliorokfm000e09mqdsns9250
 slug: introducing-popwola-your-no-code-popup-builder-appwrite-x-hashnode-hackathon
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1686327114521/43b72663-bc50-40e3-8e0a-f0405536912e.png
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1686327194042/44843416-d9f1-4516-b01e-d4393898381f.png
-tags: javascript, nextjs, appwrite, appwrite-appwritehackathon
+tags: javascript, nextjs, appwrite, appwritehackathon, appwrite-appwritehackathon
 
 ---
 
