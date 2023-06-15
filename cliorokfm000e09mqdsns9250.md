@@ -54,7 +54,7 @@ Here is how it solves the problem (i.e Features) 👇👇
     Say no to complex integrations. With Popwola, you can connect your popups to your website with just a single script. This streamlined integration saves you time and effort, allowing you to focus on creating compelling popup campaigns without the hassle of complicated setup processes.
     
 
-## Release of Popwola 1.1.0 (14 May) 🎉
+## Release of Popwola 1.1.0 (14 June) 🎉
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1686798136518/b1014d2f-06f9-434f-ad3f-5ac67859335c.png align="center")
 
