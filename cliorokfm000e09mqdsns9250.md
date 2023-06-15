@@ -64,8 +64,8 @@ With Popwola 1.1.0, you have three views at your fingertips: desktop (the defaul
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1686798513523/21975a6b-8d7f-4820-a9e6-20597c7074f4.png align="center")
 
-I'm thrilled to announce the release of Popwola! Moving forward, I've plan to transition this project into an Open Source SaaS. I'm incredibly grateful for any help and support from the community, whether it's contributing code, reporting issues, sponsoring the project, providing feedback, or assisting with documentation. Your involvement will enable me to sustain and further develop this project. Together, we can make Popwola smarter and more impactful.  
-  
+I'm thrilled to announce the release of Popwola! Moving forward, I've plan to transition this project into an Open Source SaaS. I'm incredibly grateful for any help and support from the community, whether it's contributing code, reporting issues, sponsoring the project, providing feedback, or assisting with documentation. Your involvement will enable me to sustain and further develop this project. Together, we can make Popwola smarter and more impactful.
+
 Read the release note on Github: [Release note v1.1.0](https://github.com/NiazMorshed2007/popwola/releases/tag/v1.1.0)
 
 ## Development Phases
@@ -190,11 +190,11 @@ Start building popups here: [https://popwola.vercel.app/](https://popwola.vercel
 5. Many variants: It's not just about showing the same popup every time. Explore versatile options like sticky headers, footers, and sidebars. Maximize user engagement by offering unique and eye-catching popup variants.
     
 
-These are just a few of the exciting possibilities! However, realizing these features will require collaborative teamwork and substantial investment.
+These are just a few of the exciting possibilities! However, these features will require collaborative teamwork and substantial investment.
 
 ## Final Words
 
-This project has significant potential for growth and can effectively solve real-world problems. As an open-source initiative, it offers a valuable opportunity for collaboration and innovation in the realm of popup building. By expanding customization options, improving integration compatibility, implementing analytics capabilities, ensuring responsive design, and providing robust documentation and community support, this project can become a go-to resource for developers seeking to create powerful and user-friendly popups.  
+This project has significant potential for growth and can effectively solve real-world problems. As an open-source initiative, it offers a valuable opportunity for collaboration and innovation in the realm of popup building. By expanding customization options, improving integration compatibility, implementing analytics capabilities, and providing robust documentation and community support, this project can become a go-to resource for businesses and developers.  
 **<mark>And I'm actively looking for support from the community.</mark>**
 
 ## Thanks for organizing this amazing hackathon! 💖
