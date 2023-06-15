@@ -19,7 +19,7 @@ Niaz Morshed | [Niaz Morshed](https://hashnode.com/@niazmorshed)
 
 ## Description
 
-Popwola is a no-code popup builder that simplifies the process of creating captivating popups. With its user-friendly interface and customizable templates, you can effortlessly design visually stunning popups without any coding complexities. Popwola also offers a preview option and timeline management for precise control over popup display. Boost user engagement and drive conversions with Popwola's seamless and efficient popup creation solution.
+Popwola is a no-code popup builder that simplifies the process of creating captivating popups. With its user-friendly interface and customizable templates, you can effortlessly design visually stunning popups without any coding complexities. Popwola also offers a preview option and timeline management for precise control over the popup display. Boost user engagement and drive conversions with Popwola's seamless and efficient popup creation solution.
 
 ### The problem we aimed to solve
 
@@ -38,7 +38,7 @@ Here is how it solves the problem (i.e Features) 👇👇
     
 2. **No-code editor: 🔨**
     
-    With Popwola's no-code editor, you can create stunning popups without any coding required. Say goodbye to the complexities of coding and enjoy a seamless popup building experience. Customize the design, layout, and content of your popups effortlessly, making them visually captivating and engaging for your audience.
+    With Popwola's no-code editor, you can create stunning popups without any coding required. Say goodbye to the complexities of coding and enjoy a seamless popup-building experience. Customize the design, layout, and content of your popups effortlessly, making them visually captivating and engaging for your audience.
     
     ![product-preview](https://user-images.githubusercontent.com/77217706/244579842-50e87a2f-b418-4f07-9991-32e756d71ff3.svg align="left")
     
@@ -53,6 +53,20 @@ Here is how it solves the problem (i.e Features) 👇👇
     
     Say no to complex integrations. With Popwola, you can connect your popups to your website with just a single script. This streamlined integration saves you time and effort, allowing you to focus on creating compelling popup campaigns without the hassle of complicated setup processes.
     
+
+## Release of Popwola 1.1.0 (14 May) 🎉
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1686798136518/b1014d2f-06f9-434f-ad3f-5ac67859335c.png align="center")
+
+Introducing **Popwola 1.1.0**! Now with the all-new responsive editor feature, creating device-responsive popups has never been easier. Realizing the only thing that was missing to be Popwola being used as an MVP was the lack of responsiveness of popups. So, when the Appwrite hackathon was extended by a day ⌚, I wasted no time and worked tirelessly through the night to bring you this exciting update.
+
+With Popwola 1.1.0, you have three views at your fingertips: desktop (the default), tablet, and mobile. Switch effortlessly between these views in the editor to customize your popups for different screen sizes. Say goodbye to the hassle of compatibility issues—Popwola now empowers you with the flexibility to create stunning, responsive popups without any complications. 🙌
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1686798513523/21975a6b-8d7f-4820-a9e6-20597c7074f4.png align="center")
+
+I'm thrilled to announce the release of Popwola! Moving forward, I've plan to transition this project into an Open Source SaaS. I'm incredibly grateful for any help and support from the community, whether it's contributing code, reporting issues, sponsoring the project, providing feedback, or assisting with documentation. Your involvement will enable me to sustain and further develop this project. Together, we can make Popwola smarter and more impactful.  
+  
+Read the release note on Github: [Release note v1.1.0](https://github.com/NiazMorshed2007/popwola/releases/tag/v1.1.0)
 
 ## Development Phases
 
@@ -98,7 +112,7 @@ Here is how it solves the problem (i.e Features) 👇👇
 
 ## Tech stack used
 
-Popwola is built on top of hot technlogies including:
+Popwola is built on top of hot technologies including:
 
 1. [Next.js](https://nextjs.org/): A popular React framework for building fast and scalable applications.
     
@@ -134,11 +148,15 @@ Popwola is built on top of hot technlogies including:
     
     When I first started using Appwrite, it took me some time to grasp its features and become comfortable with its functionalities. However, once I gained a better understanding, working with it became an enjoyable experience.
     
-2. Setting Up Redux with the Editor:
+2. Implementing the moveable feature:
+    
+    I was quite frustrated to think of how I could build such an interface for draggable, resizable and moveable flexibility of elements. But the [react-moveable](https://www.npmjs.com/package/react-moveable?activeTab=readme) library saved my life!
+    
+3. Setting Up Redux with the Editor:
     
     Integrating Redux with the editor posed a challenge. It required some effort to configure and establish the necessary connections between the two. However, once everything was properly set up, it greatly enhanced the functionality and user experience of the project.
     
-3. Creating the `script-min.js` File for Seamless Popup Handling
+4. Creating the `script-min.js` File for Seamless Popup Handling
     
     To ensure smooth and seamless handling of popups, I had to create the script-min.js file. This involved carefully designing the script to handle popups in a way that provided a seamless and user-friendly interaction. Although it required some extra work, the end result greatly improved the overall usability of the project.
     
@@ -157,9 +175,30 @@ Start building popups here: [https://popwola.vercel.app/](https://popwola.vercel
 
 %[https://www.youtube.com/watch?v=AsgLX5u4YSo] 
 
-  
+## Scope of new features 📈
+
+🚀 Popwola is here to revolutionize popup creation with ease! But wait, there's so much more to explore! After conducting market research, I've uncovered some exciting features that can transform Popwola into a globally embraced gem. Let's dive in and discover the possibilities! 💎
+
+1. Lead generation 👤: Imagine adding a form to your popup, collecting valuable user data, and storing it for lead generation. This integration will empower businesses to track and nurture potential leads effectively.
+    
+2. Analytics and reporting 📊: Gain insights into the performance of your popups with an analytics feature. Track impressions, conversion rates, and other essential metrics to optimize your engagement strategy.
+    
+3. Page/scroll wise popups 📐 : Tailor your popups to specific pages or trigger them based on scrolling behavior. Be strategic in displaying relevant popups and engage users precisely when they need it most.
+    
+4. Localization 🌐: Expand your reach by implementing popups with different languages using the localization feature. Connect with a global audience and deliver personalized experiences in their preferred language.
+    
+5. Many variants: It's not just about showing the same popup every time. Explore versatile options like sticky headers, footers, and sidebars. Maximize user engagement by offering unique and eye-catching popup variants.
+    
+
+These are just a few of the exciting possibilities! However, realizing these features will require collaborative teamwork and substantial investment.
+
+## Final Words
+
 This project has significant potential for growth and can effectively solve real-world problems. As an open-source initiative, it offers a valuable opportunity for collaboration and innovation in the realm of popup building. By expanding customization options, improving integration compatibility, implementing analytics capabilities, ensuring responsive design, and providing robust documentation and community support, this project can become a go-to resource for developers seeking to create powerful and user-friendly popups.  
-  
+**<mark>And I'm actively looking for support from the community.</mark>**
+
+## Thanks for organizing this amazing hackathon! 💖
+
 And, I had an incredible journey working on this project for the hackathon. Despite starting nearly two weeks behind schedule, I put in the effort and completed it successfully. I want to extend my heartfelt thanks to [Appwrite](https://appwrite.io) and [Hashnode](https://hashnode.com) for arranging this fantastic hackathon! I am truly grateful for the opportunity they provided and for their support throughout the process.
 
 #Appwrite #AppwriteHackathon
